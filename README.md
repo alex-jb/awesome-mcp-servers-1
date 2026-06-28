@@ -335,6 +335,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/stripe" height="14"/> [Stripe](https://github.com/stripe/agent-toolkit/tree/main)<sup><sup>⭐</sup></sup> - Allows you to integrate with Stripe APIs
 - <img src="https://pub.pbkrs.com/files/202211/TNosrY77nCxm6rtU/logo-without-title.svg" height="14"/> [LongPort OpenAPI](https://github.com/longportapp/openapi/tree/main/mcp)<sup><sup>⭐</sup></sup> - Provides real-time stock market data, provides AI access analysis and trading capabilities through MCP.
 - <img src="https://zbd.gg/favicon.ico" height="14"/> [ZBD](https://github.com/zebedeeio/zbd-payments-typescript-sdk/tree/main/packages/mcp-server)<sup><sup>⭐</sup></sup> - Interact with ZBD's payment processing APIs for instant global payments with Bitcoin and Lightning Network
+- <img src="https://cdn.simpleicons.org/github" height="14"/> [Shadow](https://github.com/alex-jb/shadow-mentor) - 5-voice AI compliance council for regulated loan origination. 6 tools wrap deterministic council verdict (block / escalate / approve), institutional risk primitives (VaR / ES / concentration), AA01–AA05 adverse-action codes per CFPB Bulletin 2024-09, Brier calibration, and cross-session recall. FICO < 700 is a hardcoded JS conditional with pinned tests. MIT, runs in-process.
 
 <br />
 
